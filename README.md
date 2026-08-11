@@ -1,2 +1,2 @@
 # Employ
-Site for all young people who wants to work but the regular sites don't work.
+Site for all young people who want to work.
